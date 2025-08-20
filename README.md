@@ -7,3 +7,13 @@
  *bob
  *italic*
  **Bold**
+
+
+...
+#include <studio.h>
+
+int main() {
+	print("E");
+	return 0;
+}
+...
